@@ -1,0 +1,25 @@
+.marck-script-regular {
+  font-family: "Marck Script", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+body {
+  background-color:rgb(230, 198, 253);
+}
+
+h1 {
+  color:rgb(45, 0, 78);
+  display: flex;
+  justify-content: center;
+}
+
+h1, p, li {
+  font-family: "Marck Script";
+}
+
+ul {
+  border-radius: 2%;
+  border-color: rgb(45, 0, 78);
+  border-style: solid;
+}
